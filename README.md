@@ -18,6 +18,7 @@ A small collection of USB VIDs and PIDs used by circuitpython.
 
 2E8A Raspberry Pi
   0003 RP2 Boot
+  000A PicoArduino - Lilygo T-PicoC3 after boot
   00C0 RaspberryPi Pico not flashed yet
   
 303A Espressif
