@@ -58,3 +58,13 @@ Bus 001 Device 001: ID 239a:006a 239a Blackpill SSIS edition  Serial: 0F004C000F
 Bus 000 Device 000: ID 239a:8046 239a USB 3.1 Bus 
 Bus 000 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub 
 ```
+
+## T-Display rp2040
+
+This is going on since March 2022:
+
+- https://community.lilygo.cc/topic/145/t-display-rp2040-needs-usb-vid-pid 
+- https://github.com/adafruit/circuitpython/pull/6037 
+- https://github.com/Xinyuan-LilyGO/LILYGO-T-display-RP2040/issues/5
+- https://github.com/pidcodes/pidcodes.github.com/pull/827
+
